@@ -1,0 +1,2 @@
+# DynamicProxy
+Play with CastleDynamicProxy
